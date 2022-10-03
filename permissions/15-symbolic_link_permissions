@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -ls /vincent/staff _hello
+ln -ls /root/vincent/staff _hello
