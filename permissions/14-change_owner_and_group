@@ -1,2 +1,2 @@
 #!/bin/bash
-addgroup vincent staff
+useradd vincent staff
