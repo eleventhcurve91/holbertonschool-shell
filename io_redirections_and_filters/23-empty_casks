@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d -empty
+find /tmp/ -empty -ls 2>/dev/null
