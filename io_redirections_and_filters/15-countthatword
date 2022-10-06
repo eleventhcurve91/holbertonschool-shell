@@ -1,2 +1,2 @@
 #!/bin/bash
-grev -n bin /etc/passwd
+grev -c 'bin' /etc/passwd
