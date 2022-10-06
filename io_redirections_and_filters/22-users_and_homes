@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E '^([^:]*:){5}' ~/etc/passwd | cut -d: -f1
+cat /etc/passwd
