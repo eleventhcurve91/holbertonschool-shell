@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bash#!/ova/onfu
 cat "$1" | while read m
